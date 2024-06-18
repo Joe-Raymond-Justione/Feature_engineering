@@ -15,27 +15,29 @@ Welcome to the Feature Engineering project using the New York City Airbnb Open D
 
 In this project, we focus on creating five new data features to improve the performance of a supervised Linear Regression algorithm for predicting Airbnb home prices. By leveraging the capabilities of PySpark, we ensure that the feature engineering process is scalable and can handle the vast amounts of data typical in real-world scenarios.
 
-[![Description](https://img.shields.io/badge/Description-black?style=for-the-badge&labelColor=black&color=lightblue&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#description)
+[![Description](https://img.shields.io/badge/Description-black?style=for-the-badge&labelColor=black&color=lightyellow&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#description)
 
 The objective of this project is to showcase the practical application of feature engineering techniques to improve the accuracy of machine learning models. Using the New York City Airbnb Open Data dataset, we implement the following steps:
 
-[![Data Collection & Preprocessing](https://img.shields.io/badge/Data_Collection_&_Preprocessing-ff69b4?style=for-the-badge&labelColor=black&color=yellow&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing)
+[![Data Collection & Preprocessing](https://img.shields.io/badge/Data_Collection_&_Preprocessing-ff69b4?style=for-the-badge&color=tomato&labelWidth=700)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing)
+
+
 
 Load and preprocess the raw data using PySpark DataFrames to ensure it is clean and suitable for feature engineering.
 
-[![Data Collection & Preprocessing](https://img.shields.io/badge/Data_Collection_&_Preprocessing-ff69b4?style=for-the-badge&labelColor=black&color=orange&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing)
+[![Feature Creation](https://img.shields.io/badge/Feature_Creation-ff69b4?style=for-the-badge&color=tomato&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing)
 
 Generate five new features from the existing dataset to enhance the model's predictive power. These features are crafted using domain knowledge and data exploration insights.
 
-[![Data Collection & Preprocessing](https://img.shields.io/badge/Data_Collection_&_Preprocessing-ff69b4?style=for-the-badge&labelColor=black&color=lightgreen&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing)
+[![Feature Transformation and Selection](https://img.shields.io/badge/Feature_Transformation_and_Selection-ff69b4?style=for-the-badge&color=tomato&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing)
 
 Transform and select the most relevant features to ensure the Linear Regression model performs optimally.
 
-[![Data Collection & Preprocessing](https://img.shields.io/badge/Data_Collection_&_Preprocessing-ff69b4?style=for-the-badge&labelColor=black&color=lightseagreen&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing) 
+[![Model Training and Evaluation](https://img.shields.io/badge/Model_Training_and_Evaluation-ff69b4?style=for-the-badge&color=tomato&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing) 
 
 Train the Linear Regression model using the engineered features and evaluate its performance to demonstrate the improvements achieved through feature engineering.
 
-[![Data Collection & Preprocessing](https://img.shields.io/badge/Data_Collection_&_Preprocessing-ff69b4?style=for-the-badge&labelColor=black&color=lavender&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing) 
+[![New Features Created](https://img.shields.io/badge/New_Features_Created-ff69b4?style=for-the-badge&color=tomato&logoColor=white&labelWidth=200)](https://github.com/Joe-Raymond-Justione/Feature_engineering#data-collection-preprocessing) 
 
 Price per Square Foot: Calculated by dividing the price by the square footage of the listing.
 Booking Rate: Derived from the number of bookings per month, indicating the popularity and demand for the listing.
