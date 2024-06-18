@@ -15,8 +15,9 @@
 _Feature engineering is the process of using domain knowledge to extract and create new features from raw data that can be used to improve the performance of machine learning models. This crucial step in the data preprocessing pipeline involves transforming and refining data to highlight the patterns and structures that machine learning algorithms can learn from more effectively._
 
 
-Feature Engineering with NYC Airbnb Open Data using PySpark
-##Introduction
+# Feature Engineering with NYC Airbnb Open Data using PySpark
+
+## Introduction
 Welcome to the Feature Engineering project using the New York City Airbnb Open Data dataset! This project aims to enhance the predictive performance of machine learning models by applying advanced feature engineering techniques. Specifically, we use PySpark with DataFrames to handle and process large datasets efficiently, demonstrating the power of big data tools in the realm of data science and machine learning.
 
 In this project, we focus on creating five new data features to improve the performance of a supervised Linear Regression algorithm for predicting Airbnb home prices. By leveraging the capabilities of PySpark, we ensure that the feature engineering process is scalable and can handle the vast amounts of data typical in real-world scenarios.
