@@ -65,7 +65,10 @@ Calculating the ratio of the number of reviews to the availability of the listin
 
 Measures the diversity of room types offered by hosts. Hosts offering a variety of room types might attract a wider range of guests and potentially charge higher prices.
 
-Tools and Technologies :
+## Conclusion :
+The models's MAE(Mean absolute error) was reduced to 53.82 from 75. By implmenting this on different model would provide better results. Since this project focused on building `Features` I used only the simplest models and worked on building Features to bring down MAE.
+
+## Tools and Technologies :
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
