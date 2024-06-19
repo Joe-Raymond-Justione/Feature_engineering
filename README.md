@@ -65,7 +65,7 @@ Calculating the ratio of the number of reviews to the availability of the listin
 
 Measures the diversity of room types offered by hosts. Hosts offering a variety of room types might attract a wider range of guests and potentially charge higher prices.
 
-`Tools and Technologies` :
+Tools and Technologies :
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
@@ -73,27 +73,6 @@ Measures the diversity of room types offered by hosts. Hosts offering a variety 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-Project Structure
-data/: Contains the raw and processed datasets.
-notebooks/: Jupyter notebooks detailing the feature engineering process and model training steps.
-scripts/: Python scripts for data preprocessing, feature creation, and transformation.
-results/: Output files and evaluation results of the Linear Regression model.
-README.md: Project overview and instructions.
-Getting Started
-To get started with this project, follow these steps:
 
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/Joe-Raymond-Justione/Feature_engineering.git
-Install the required dependencies:
-sh
-Copy code
-pip install -r requirements.txt
-Run the Jupyter notebooks or scripts to explore the feature engineering techniques.
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or additional feature engineering techniques to share, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
